@@ -11,7 +11,7 @@ function App() {
   useEffect(() => {
     axios
       .get(
-        `http://api.weatherapi.com/v1/current.json?key=${process.env.REACT_APP_WEATHER_API_KEY}&q=tashkent&aqi=yes`
+        `http://api.weatherapi.com/v1/current.json?key=48a6506bf912416ba7a64309220305&q=tashkent&aqi=yes`
       )
       .then((data) => {
         setWeather(data.data);
