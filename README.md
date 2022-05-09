@@ -1,6 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Weather App
+Simple and cool design. 
+you can check it via https://6278d1af098bd17a06dbac47--celebrated-gelato-fbdf4d.netlify.app/
 
 ## Available Scripts
 
